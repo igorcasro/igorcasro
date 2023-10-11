@@ -2,7 +2,7 @@
 
 
 - Graduando do curso de Bacharelado em Ciência da Computação na UTFPR - PG com previsão de formação até julho/2024.
-- Hoje estudo bastante Front-End mas tenho conhecimento em MatLab e Dart/Flutter como segundo foco.
+- Conhecimento básico em diversas linguagens de programação, lógica de programação, metodologias ágeis e banco de dados 
 - Contate-me no e-mail igorpfcastro@gmail.com ou pelo celular (19)99302-7135.
 
 <div>
