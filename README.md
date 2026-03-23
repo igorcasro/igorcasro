@@ -1,7 +1,7 @@
 ## Olá! Me chamo Igor Castro
 
 
-- Graduando do curso de Bacharelado em Ciência da Computação na UTFPR - PG com previsão de formação até julho/2024.
+- Graduando do curso de Bacharelado em Ciência da Computação na UTFPR - PG com previsão de formação até julho/2026.
 - Conhecimento básico em diversas linguagens de programação, lógica de programação, metodologias ágeis e banco de dados 
 - Contate-me no e-mail igorpfcastro@gmail.com ou pelo celular (19)99302-7135.
 
