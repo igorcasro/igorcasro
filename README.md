@@ -2,22 +2,25 @@
 
 
 - Graduando do curso de Bacharelado em Ciência da Computação na UTFPR - PG com previsão de formação até julho/2026.
-- Conhecimento básico em diversas linguagens de programação, lógica de programação, metodologias ágeis e banco de dados 
-- Contate-me no e-mail igorpfcastro@gmail.com ou pelo celular (19)99302-7135.
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcasro&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorcasro&layout=compact&theme=transparent&hide=tex"/>
-</div>
+- Conhecimento em:
+  - Lógica de programação;
+  - Framework Backend: Laravel;
+  - Framework Frontend: NextJS;
+  - Tecnologias/Linguagens: PHP, Javascprit/Typescript, Bancos de Dados (MySQL), HTML e CSS.
+- Contate-me no e-mail igorpfcastro@gmail.com.
 
 <div style="display: inline-block"><br>  
   <img align="center" alt="Igor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Igor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Igor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Igor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Igor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Igor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/php.svg">
+  <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/react.svg">
+  <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/laravel.svg">
+  <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/typescript-icon.svg">
+  <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/javascript.svg">
+  <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/mysql.svg">
+  
 </div>
 
 ##
