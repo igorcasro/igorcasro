@@ -6,7 +6,7 @@
   - Lógica de programação;
   - Framework Backend: Laravel;
   - Framework Frontend: NextJS;
-  - Tecnologias/Linguagens: PHP, Javascprit/Typescript, Bancos de Dados (MySQL), HTML e CSS.
+  - Tecnologias/Linguagens: PHP, Javascprit/Typescript, Bancos de Dados (MySQL), Python, HTML e CSS.
 - Contate-me no e-mail igorpfcastro@gmail.com.
 
 <div style="display: inline-block"><br>  
@@ -20,6 +20,7 @@
   <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/typescript-icon.svg">
   <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/javascript.svg">
   <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/mysql.svg">
+  <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/python.svg">
   
 </div>
 
