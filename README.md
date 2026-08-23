@@ -1,12 +1,19 @@
 ## Olá! Me chamo Igor Castro
 
 
-- Graduando do curso de Bacharelado em Ciência da Computação na UTFPR - PG com previsão de formação até julho/2026.
+- Cientista da Computação pela UTFPR - PG.
 - Conhecimento em:
   - Lógica de programação;
   - Framework Backend: Laravel;
   - Framework Frontend: NextJS;
-  - Tecnologias/Linguagens: PHP, Javascprit/Typescript, Bancos de Dados (MySQL), Python, HTML e CSS.
+  - Tecnologias/Linguagens:
+    - PHP;
+    - Javascprit/Typescript;
+    - Bancos de Dados (MySQL);
+    - Python;
+    - HTML;
+    - CSS;
+    - Selenium.
 - Contate-me no e-mail igorpfcastro@gmail.com.
 
 <div style="display: inline-block"><br>  
@@ -21,6 +28,7 @@
   <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/javascript.svg">
   <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/mysql.svg">
   <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/python.svg">
+  <img align="center" alt="Igor-C" height="30" width="40" src="https://devicons.io/devicons/icons/selenium.svg">
   
 </div>
 
